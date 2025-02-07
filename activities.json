@@ -1,0 +1,6 @@
+{
+    "IGA": ["IGA Activity 1", "IGA Activity 2", "IGA Activity 3", "IGA Activity 4"],
+    "AAG": ["AAG Activity 1", "AAG Activity 2", "AAG Activity 3", "AAG Activity 4"],
+    "PAM": ["PAM Activity 1", "PAM Activity 2", "PAM Activity 3", "PAM Activity 4"],
+    "EIM": ["EIM Activity 1", "EIM Activity 2", "EIM Activity 3", "EIM Activity 4"]
+}
